@@ -3,8 +3,8 @@ This repository contains the full paths for the VeReMi post-attack master’s th
 Here is a short paragraph you can use to share the Google Drive link for accessing the data:
 
 You can access the dataset files here: https://drive.google.com/drive/folders/11XiBYONftrVmJNJ8YsNVHLmAQIKXq2Zu?usp=sharing.
-The folder contains the following CSV files: ConstPosOffsetFullPathes.csv, EventalStopFullPathes.csv, RandomPosFullPathes.csv, 
-and RandomPosOffsetFullPathes.csv. Note that ConstPosFullPathes.csv (without "Offset") is not present because it was deleted by mistake.
+The folder contains the following CSV files: ConstPosFullPathes.csv ,ConstPosOffsetFullPathes.csv, EventalStopFullPathes.csv, RandomPosFullPathes.csv, 
+and RandomPosOffsetFullPathes.csv.
 Use this repository to handle the datasets: https://github.com/muradialotabi/Data-Pre-Processing.git.
 All available files can be downloaded directly from Google Drive.
 
